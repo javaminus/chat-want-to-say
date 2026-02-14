@@ -22,7 +22,7 @@
         "triggerNextAction": {
             "type": "userInput",
             "options": {
-                "resolveKeyTexts": ["想我", "想女朋友"],
+                "resolveKeyTexts": ["想我", "想女朋友","我"],
                 "rejectKeyTexts": ["不想"],
                 "rejectHitTexts": [
                     "猜错了，给你个提示，是个人～",
