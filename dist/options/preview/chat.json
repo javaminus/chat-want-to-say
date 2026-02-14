@@ -9,7 +9,7 @@
                 "resolveKeyTexts": ["情人节", "情人", "纪念日"],
                 "rejectKeyTexts": [],
                 "rejectHitTexts": [
-                    "给你提示一下，今天是2026年2月14号喔",
+                    "给你提示一下，今天是2022年2月14号喔",
                     "这都答不出来吗，我要生气了。",
                     "好吧，看在你应该不是故意的份上告诉你吧，今天是情人节～"
                 ]
@@ -22,7 +22,7 @@
         "triggerNextAction": {
             "type": "userInput",
             "options": {
-                "resolveKeyTexts": ["想我", "想女朋友","我"],
+                "resolveKeyTexts": ["想我", "想女朋友"],
                 "rejectKeyTexts": ["不想"],
                 "rejectHitTexts": [
                     "猜错了，给你个提示，是个人～",
